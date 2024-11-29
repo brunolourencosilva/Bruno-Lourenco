@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="200" src="https://static.tvtropes.org/pmwiki/pub/images/tyberos.png"  />
+<img align="right" height="200" src="https://media.tenor.com/zTq0VUy7FngAAAAM/frank-west-dead-rising.gif"  />
 
 ###
 
