@@ -17,18 +17,16 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="150" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeySAKLGUcOHfTQ0gs6-TwIBVqTyt2szoI2TTYUeExvn5nggOhSjnRPN9oncBTceXYL5-FM_OA3fVDglLGIYLschIrfQdk8Kn5RgPklW--Cfx6y72Nl_g50vwIoaBjqnKsJUD9XCsqTlIabVKuOiwggcfea?key=oM7GHw6QArn-AMCv-N0uUQ"  />
+</div>
 
-<img align="left" height="150" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeySAKLGUcOHfTQ0gs6-TwIBVqTyt2szoI2TTYUeExvn5nggOhSjnRPN9oncBTceXYL5-FM_OA3fVDglLGIYLschIrfQdk8Kn5RgPklW--Cfx6y72Nl_g50vwIoaBjqnKsJUD9XCsqTlIabVKuOiwggcfea?key=oM7GHw6QArn-AMCv-N0uUQ"  />
+###
+
+<img align="left" height="200" src="https://media.tenor.com/8IuRFRJPqJMAAAAM/scout-tf2.gif"  />
 
 ###
 
 <img align="right" height="200" src="https://media.tenor.com/zTq0VUy7FngAAAAM/frank-west-dead-rising.gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/QIitBFRMYZ8AAAAM/sgt-dornan-fallout.gif"  />
-</div>
 
 ###
